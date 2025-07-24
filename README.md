@@ -20,7 +20,7 @@ This project analyzes Diwali sales data using Python and visualizations. It prov
 1. **Clone or Download the Repository**
    - Download the project folder or clone using:
      ```bash
-     git clone <repo-url>
+     git clone https://github.com/MOULIKGANDHI03/Diwali-Sales-Analysis
      ```
 
 2. **Navigate to the Project Directory**
